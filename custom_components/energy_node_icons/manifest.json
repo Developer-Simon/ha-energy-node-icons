@@ -9,10 +9,10 @@
     "@Developer-Simon"
   ],
   "config_flow": true,
-  "documentation": "https://github.com/Developer-Simon/ha-energy-node-icons",
+  "documentation": "https://developer-simon.github.io/energy-node/ha/icons.html",
   "integration_type": "service",
   "iot_class": "calculated",
   "issue_tracker": "https://github.com/Developer-Simon/ha-energy-node-icons/issues",
   "requirements": [],
-  "version": "0.1.1"
+  "version": "0.2.0"
 }
